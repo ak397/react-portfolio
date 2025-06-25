@@ -155,9 +155,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🤝 Contact
 
-Ashish - https://www.linkedin.com/in/ashish-kumar-4b3396213/ - ashish397868@gmail.com
+Ashish - https://www.linkedin.com/in/ashish-kumar-4b3396213/ - ak397868@gmail.com
 
-Project Link: https://admirable-yeot-633041.netlify.app/
+Project Link: https://ashishkumar-react-portfolio.netlify.app/
 
 ## 🙏 Acknowledgments
 
